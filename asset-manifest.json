@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jose-torres-banking-application/static/css/main.f84000ef.css",
+    "main.js": "/jose-torres-banking-application/static/js/main.b0c14778.js",
+    "index.html": "/jose-torres-banking-application/index.html",
+    "main.f84000ef.css.map": "/jose-torres-banking-application/static/css/main.f84000ef.css.map",
+    "main.b0c14778.js.map": "/jose-torres-banking-application/static/js/main.b0c14778.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f84000ef.css",
+    "static/js/main.b0c14778.js"
+  ]
+}
