@@ -1,0 +1,29 @@
+.user-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .user-item {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    flex-basis: calc(33.33% - 20px); 
+  }
+  
+  .user-info {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .user-label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .user-value {
+    flex-grow: 1;
+  }
+  
